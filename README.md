@@ -10,6 +10,7 @@ Bachelor of Science in Computer Engineering (STI College San Jose Del Monte Bula
 
 ## Work Experience
 PC Assembly
+
 Hardware Troubleshooting
 
 ## Job Title
@@ -17,4 +18,5 @@ Maintenance
 
 ## Skills
 Troubleshooting
+
 Assembly
